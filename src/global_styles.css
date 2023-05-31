@@ -1,0 +1,9 @@
+/* Add application styles & imports to this file! */
+.cards {
+  display: flex;
+  flex-direction: column;
+}
+
+.mt-4 {
+  margin: 2rem;
+}
